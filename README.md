@@ -37,7 +37,7 @@ Any **unauthorized distribution or commercial use** of audio files you do not ow
 ---
 
 ## Description
-**SIMPLE AUDIO TOOL** is a Python tool for **managing audio metadata, cover art, and audio conversion**. It supports multiple formats including **MP3, FLAC, M4A/AAC, and OGG**. Users can:
+**FFTool-CLI** is a Python tool for **managing audio metadata, cover art, and audio conversion**. It supports multiple formats including **MP3, FLAC, M4A/AAC, and OGG**. Users can:
 
 - List audio files in a directory
 - View and edit metadata tags (title, artist, album, etc.)
@@ -100,14 +100,14 @@ This tool is **interactive**. You do not need to pass command-line arguments; ev
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/Audrise/audiotool.git
+    git clone https://github.com/Audrise/FFTool-CLI.git
     ```
     Or download as ZIP:
     ```bash
-    https://github.com/Audrise/audiotool/archive/refs/heads/main.zip
+    https://github.com/Audrise/FFTool-CLI/archive/refs/heads/main.zip
     ```
     ```bash
-    cd audiotool
+    cd FFTool-CLI
     ```
 
 2. Install required Python libraries:
