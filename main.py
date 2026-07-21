@@ -1,8 +1,8 @@
 """
 Developed by   : Audrise
 Version        : 1.0.0
-Status         : Launched
 GitHub         : https://github.com//Audrise/audiotool
+Status         : Launched
 """
 
 try:

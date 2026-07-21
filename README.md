@@ -1,5 +1,5 @@
 <h1 align="center">
-    <strong>SIMPLE AUDIO TOOL</strong>
+    <strong>FFTOOL CLI</strong>
 </h1>
 
 <div align=center>
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge"/>
     <br>
     <img src="https://img.shields.io/badge/Maintained%3F-yes-blue.svg"/>
-    <img src="https://img.shields.io/github/stars/Audrise/audiotool?style=social">
+    <img src="https://img.shields.io/github/stars/Audrise/FFTool-CLI?style=social">
 </div>
 <br>
 
