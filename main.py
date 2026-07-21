@@ -687,7 +687,7 @@ def main():
                 System.Clear()
 
             elif choice == "0":
-                print(error(f"{red}Exitting{res}"))
+                print(error(f"{red}Exit.{res}"))
                 sleep(0.5)
                 System.Clear()
                 break
