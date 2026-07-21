@@ -47,6 +47,7 @@ icon = r"""
 
 black = Col.black
 green = Col.green
+gray = Col.gray
 res = Col.reset
 red = Col.red
 
