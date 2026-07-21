@@ -1,0 +1,4 @@
+mutagen>=1.47.0
+colorama
+pystyle
+tqdm
