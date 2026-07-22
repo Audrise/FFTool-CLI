@@ -200,7 +200,7 @@ class Audiotool:
 
                 except Exception as e:
                     animation(error(f"{red}An error occured: {e}{res}\n"), 0.003)
-                    exit()
+                    exit(0)
 
             elif choice == "3":
                 if not self.song_list():
@@ -687,9 +687,10 @@ def main():
                 System.Clear()
 
             elif choice == "0":
-                print(error(f"{red}Exit.{res}"))
+                print(error(f"{red}Exitting.{res}"))
                 sleep(0.5)
                 System.Clear()
+                Cursor.ShowCursor()
                 break
 
             else:
